@@ -947,3 +947,16 @@ li a:hover {
     margin-top: 2rem;
   }
 }
+
+.tech-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.tech-logo {
+  width: 40px;
+  height: 40px;
+  margin-bottom: 8px;
+}
